@@ -1,4 +1,0 @@
-{
-  "title": "Create test.txt with Hello World content",
-  "job": "Create a file at `test.txt` in the repository root with the content \"Hello World\"."
-}
